@@ -1,0 +1,87 @@
+.user-name {
+	color: #000000;
+}
+
+.user-nav a {
+	padding: 3px;
+	color: #000000
+}
+
+.user-nav a:hover {
+	background-color: #36638E;
+}
+
+.module_header {
+  display: block;
+  background: #ffffff;
+}
+
+.module_header .header_top {
+  background: #DEE5EB;
+  overflow: hidden;
+  padding: 4px 8px;
+  font-weight: bold;
+  outline: none;
+  color: #FFFFFF;
+}
+
+.top-header {
+  height: 50px;
+  background: #114927;
+  overflow: hidden;
+  padding: 4px 8px;
+  font-weight: bold;
+  font-family: 'Arial'
+  outline: none;  
+  color: #ffffff;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.top-header  a {
+  color: #ffffff;
+  font-family: 'Arial'
+}
+
+.left_side {
+color: #36638E
+}
+
+.left_side a {
+color: #36638E
+}
+
+.d_footer {
+color: #36638E;
+text-align: center;
+}
+
+.d_footer a {
+color: #36638E;
+text-align: center;
+}
+
+#top-header {
+}
+
+.large-2 {
+color: #000000
+}
+.large-3 {
+color: #5577BF
+}
+
+.user-nav {
+color: #5577BF
+}
+
+.side-nav li a:not(.button) {
+    display: block;
+    color: #000000;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    line-height: inherit;
+}
